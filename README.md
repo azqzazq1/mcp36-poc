@@ -845,6 +845,7 @@ The author is not responsible for misuse of this repository.
 
 **Azizcan Daştan**  
 Security Researcher | Red Team Engineer | Vulnerability Analyst
+
 **Özlem Ozan**  
 Security Researcher | Blue Team Engineer | Senior DFIR Engineer
 
